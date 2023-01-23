@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET, C#, Elasticsearch, performance and memory optimizations
 - 🌱 I’m currently learning .NET low level memory optimizations, GitHub contribution workflows
 - 💞️ I’m looking to collaborate on some packages used in my daily work.
-- 📫 How to reach me : (Twitter)[https://twitter.com/TheFireCookie], (Reddit)[https://www.reddit.com/user/TheFireCookie]
+- 📫 How to reach me : [Twitter](https://twitter.com/TheFireCookie), [Reddit](https://www.reddit.com/user/TheFireCookie)
 
 <!---
 TheFireCookie/TheFireCookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
