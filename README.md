@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TheFireCookie
-- 👀 I’m interested in .NET, C#, Elasticsearch, performance and memory optimizations
-- 🌱 I’m currently learning .NET low level memory optimizations, GitHub contribution workflows
+- 👀 I’m interested in .NET and C#, Elasticsearch, performance and memory optimizations (thanks Konrad Kokosa for the training!) , PostgreSQL. 
+- 🌱 I’m currently migrating my projects to .NET 9 and working more and more with span and low-level memory optimizations
 - 💞️ I’m looking to collaborate on some packages used in my daily work.
-- 📫 How to reach me : [X](https://x.com/TheFireCookie), [Reddit](https://www.reddit.com/user/TheFireCookie)
+- 📫 How to reach me : [Reddit](https://www.reddit.com/user/TheFireCookie)
+- 🗻 Hobbies : Alpinism and boulder climbing
 
 <!---
 TheFireCookie/TheFireCookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
